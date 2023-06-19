@@ -1,0 +1,3 @@
+1. Jangan membuat styling pada tag element. (Harus di css)
+2. Dijadikan 1 file css
+3. Penamaan image harus jelas untuk apa ?
